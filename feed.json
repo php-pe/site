@@ -5,6 +5,7 @@
     "home_page_url": "https://phppe.net",
     "feed_url": "https://phppe.net/feed.json",
     "user_comment": "",
+    "icon": "https://phppe.net/media/website/phppe-transparente.png",
     "author": {
         "name": "Comunidade PHP Pernambuco"
     },
