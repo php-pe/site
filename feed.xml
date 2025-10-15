@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>PHP Pernambuco</title>
-    <link href="https://php-pe.net/feed.xml" rel="self" />
-    <link href="https://php-pe.net" />
+    <link href="https://phppe.net/feed.xml" rel="self" />
+    <link href="https://phppe.net" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Comunidade PHP Pernambuco</name>
     </author>
-    <id>https://php-pe.net</id>
+    <id>https://phppe.net</id>
 
 </feed>

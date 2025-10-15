@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://php-pe.net/sitemap.xml
+Sitemap: https://phppe.net/sitemap.xml
