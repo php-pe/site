@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "PHP Pernambuco",
     "description": "",
-    "home_page_url": "https://php-pe.github.io/site",
-    "feed_url": "https://php-pe.github.io/site/feed.json",
+    "home_page_url": "https://phppe.net",
+    "feed_url": "https://phppe.net/feed.json",
     "user_comment": "",
     "author": {
         "name": "Comunidade PHP Pernambuco"
